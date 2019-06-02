@@ -9,3 +9,5 @@ A Task Management App with NodeJS and MongoDB
     * insertOne()
     * insertMany()
   * ObjectID
+  * findOne, find().toArray() and find().count()
+  * 
