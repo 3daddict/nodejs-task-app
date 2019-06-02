@@ -21,14 +21,18 @@ MongoClient.connect(connectionURL, { useNewUrlParser: true }, (error, client) =>
     //     console.log(result.ops);
     // });
 
-    db.collection('users').insertMany([
+    db.collection('tasks').insertMany([
         {
-            name: 'Yaji',
-            age: 38
+            description: 'Walk the Dog',
+            completed: false
         },
         {
-            name: 'Evan',
-            age: 4
+            description: 'Take out the Trash',
+            completed: false
+        },
+        {
+            description: 'Study NodeJS',
+            completed: true
         }
     ], (error, result) => {
         if(error) {
