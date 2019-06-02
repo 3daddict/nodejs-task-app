@@ -20,3 +20,4 @@ A Task Management App with NodeJS and MongoDB
       * Update Operators
     * Delete
       * 
+      * deleteMany()
