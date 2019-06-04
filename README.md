@@ -23,4 +23,4 @@ A Task Management App with NodeJS and MongoDB
       * deleteMany()
   * Mongoose
     * Model Schema
-    * 
+  * Validator.js
