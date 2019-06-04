@@ -19,5 +19,8 @@ A Task Management App with NodeJS and MongoDB
       * updateMany()
       * Update Operators
     * Delete
-      * 
+      * deleteOne()
       * deleteMany()
+  * Mongoose
+    * Model Schema
+  * Validator.js
