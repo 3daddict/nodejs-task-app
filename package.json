@@ -6,9 +6,11 @@
   "author": "Michael <print@3daddict.com>",
   "license": "MIT",
   "scripts": {
-    "start": "nodemon mongodb.js"
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js"
   },
   "dependencies": {
+    "express": "^4.17.1",
     "mongodb": "3.1.10",
     "mongoose": "^5.5.12",
     "validator": "10.9.0"

@@ -1,0 +1,3 @@
+Start MongoDB
+/Users/mike/mongodb/bin/mongod --dbpath=/Users/mike/mongodb-data
+
