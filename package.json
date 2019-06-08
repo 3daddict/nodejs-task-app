@@ -6,7 +6,8 @@
   "author": "Michael <print@3daddict.com>",
   "license": "MIT",
   "scripts": {
-    "start": "nodemon mongodb.js"
+    "start": "nodemon mongodb.js",
+    "db": "nodemon src/db/mongoose.js"
   },
   "dependencies": {
     "mongodb": "3.1.10",
