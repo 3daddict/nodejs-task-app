@@ -27,3 +27,4 @@ A Task Management App with NodeJS and MongoDB
     * Model Schema
   * Validator.js
   * Promise Chaining
+  * Async Await
