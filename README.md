@@ -29,3 +29,5 @@ A Task Management App with NodeJS and MongoDB
   * Promise Chaining
   * Async Await
   * Object.keys()
+  * Express Routers
+  * bcrypt.js
