@@ -20,7 +20,7 @@ router.post('/users/login', async (req, res) => {
     } catch (e) {
         res.status(400).send(e);
     }
-})
+});
 
 router.get('/users', async (req, res) => {
 
