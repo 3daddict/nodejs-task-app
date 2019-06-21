@@ -31,3 +31,5 @@ A Task Management App with NodeJS and MongoDB
   * Object.keys()
   * Express Routers
   * bcrypt.js
+  * jsonwebtoken.js
+  
