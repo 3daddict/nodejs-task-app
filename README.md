@@ -32,4 +32,4 @@ A Task Management App with NodeJS and MongoDB
   * Express Routers
   * bcrypt.js
   * jsonwebtoken.js
-  
+  * Authentication
