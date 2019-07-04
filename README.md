@@ -7,6 +7,7 @@ A Task Management App with NodeJS and MongoDB
   * MongoDB Installation and Data Directory Assignment
   * MongoDB Driver API
   * ObjectID
+  * Postman
   * MongoDB CRUD Operations
     * Create
       * insertOne()
@@ -33,3 +34,5 @@ A Task Management App with NodeJS and MongoDB
   * bcrypt.js
   * jsonwebtoken.js
   * Authentication
+  * Multer
+  
