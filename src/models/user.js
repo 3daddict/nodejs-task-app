@@ -64,10 +64,10 @@ userSchema.virtual('tasks', {
 userSchema.methods.toJSON = function () {
     const user = this;
     const userObject = user.toObject();
-
+    //Remove data from the response
     delete userObject.password;
     delete userObject.tokens;
-
+    delete userObject.avatar;
 
     return userObject;
 }
