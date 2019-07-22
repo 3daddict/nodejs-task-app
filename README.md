@@ -35,4 +35,6 @@ A Task Management App with NodeJS and MongoDB
   * jsonwebtoken.js
   * Authentication
   * Multer
+  * SendGrid API
+  * env-cmd
   
