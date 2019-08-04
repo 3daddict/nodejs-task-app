@@ -37,4 +37,5 @@ A Task Management App with NodeJS and MongoDB
   * Multer
   * SendGrid API
   * env-cmd
-  
+  * JestJS - Testing
+   
