@@ -39,4 +39,5 @@ A Task Management App with NodeJS and MongoDB
   * SendGrid API
   * env-cmd
   * JestJS - Testing
+  * SuperTest
    
