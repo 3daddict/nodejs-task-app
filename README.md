@@ -1,7 +1,8 @@
 # nodejs-task-app
 A Task Management App with NodeJS and MongoDB
 
-## Feature List
+## MongoDB run
+/Users/<user>/mongodb/bin/mongod --dbpath=/Users/<user>/mongodb-data
 
 ## What I've learned
   * MongoDB Installation and Data Directory Assignment
@@ -38,4 +39,5 @@ A Task Management App with NodeJS and MongoDB
   * SendGrid API
   * env-cmd
   * JestJS - Testing
+  * SuperTest
    
